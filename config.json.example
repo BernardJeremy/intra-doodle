@@ -1,0 +1,7 @@
+{
+  "login": "myUsername",
+  "password": "myPassword",
+  "doodle_create_url": "http://doodle.com/create",
+  "display_name": "myName",
+  "display_location": "Hangout"
+}
